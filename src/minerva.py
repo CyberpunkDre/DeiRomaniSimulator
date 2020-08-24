@@ -18,7 +18,7 @@ class Model(object):
         output_data = 0
         return output_data
 
-    def write_row(self)
+    def write_row(self):
         return [current_data]
 
 class Minerva(object):
